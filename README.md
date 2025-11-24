@@ -20,25 +20,6 @@ O objetivo foi construir um modelo limpo, interpretável e com desempenho compet
 
 ---
 
-## 🗂️ Estrutura do Repositório
-
-```
-📦 projeto-sentimento-imdb
-│
-├── data/
-│   └── imdb_reviews.csv
-│
-├── notebooks/
-│   └── analise_sentimento.ipynb
-│
-├── models/
-│   ├── tfidf_vectorizer.pkl
-│   └── logistic_regression.pkl
-│
-├── README.md   ← você está aqui
-└── requirements.txt
-```
-
 ---
 
 ## 🔍 1. EDA — Análise Exploratória
