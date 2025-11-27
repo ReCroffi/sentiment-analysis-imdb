@@ -117,12 +117,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analise_sentimento.ipynb
 ```
 
-### 3 — Para treinar novamente o modelo:
-
-```python
-python train.py
-```
-
 ---
 
 ## 🚀 7. Possíveis Melhorias
